@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Studio now.
 - 🌱 I’m currently learning Application Development.
 - 💞️ I’m looking to collaborate on Cool People.
-- 📫 How to reach me send me mail ysg941108@gmail.com. 
+- 📫 How to reach me send me mail ysg941108@gmail.com
 
 <!---
 yesanggyun/yesanggyun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
